@@ -6,11 +6,7 @@ Este projeto foi desenvolvido para automatizar a busca, extração e análise de
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação e Execução](#instalação-e-execução)
-- [Arquitetura do Projeto](#arquitetura-do-projeto)
-- [Exemplo de Uso](#exemplo-de-uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Autor](#autor)
 
 ## Visão Geral
 
