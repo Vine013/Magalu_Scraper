@@ -7,9 +7,10 @@ from email import encoders
 
 def send_email():
     # Configurações do e-mail
-    sender_email = "mrvinezk@gmail.com"
-    receiver_email = "vfgsantiago@hotmail.com"
-    password = "jgzi emfc ogeq lyhc"
+    sender_email = "seuemail@gmail.com"
+    receiver_email = "destinatario@example.com"
+    password = "senha_do_app"
+
     
     msg = MIMEMultipart()
     msg['From'] = sender_email
